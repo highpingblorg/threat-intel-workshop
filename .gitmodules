@@ -1,0 +1,3 @@
+[submodule "misp"]
+	path = misp
+	url = git@github.com:NUKIB/misp.git
