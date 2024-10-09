@@ -1,2 +1,2 @@
-# Theat Intelligence workshop
+# Threat Intelligence workshop
 
