@@ -8,10 +8,8 @@ I am by no means an expert but I believe this is a step in the right direction, 
 
 ## Requirements
 
-- Internet Connection
-- A Virtual Machine - any OS will work, but for ease of use a Linux VM will work great
-- Git - https://git-scm.com/downloads
-- Docker Compose - https://docs.docker.com/compose/install/
+- a Linux VM with a GUI
+- Docker Compose
 
 ## Workshop Labs
 
