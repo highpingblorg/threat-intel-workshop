@@ -4,7 +4,11 @@ The primary objective of this lab is to learn how to apply threat intelligence i
 
 In this lab, the IoC have already been identified; your task is to determine what is malicious about the IoC presented, albeit an IP or malicious file. Utilizing the tools from the previous lab or others discussed during the presentation, identify the Threat Actor associated with the following artifacts.
 
-**PLEASE DOWNLOAD AND USE THESE FILES WITHIN A VM, SOME OF THE FILES ARE ACTUAL MALWARE**. Download the `.zip` file, the password is `infected`.
+**PLEASE DOWNLOAD AND USE THESE FILES WITHIN A VM, SOME OF THE FILES ARE ACTUAL MALWARE**. 
+
+**I AM NOT RESPONSIBLE FOR YOUR MACHINE OR ACTIONS PERFORMED ON YOUR MACHINE, SO DON'T EXECUTE MALWARE ON YOUR HOST**
+
+Download the `.zip` file, the password is `infected`.
 
 ## Exercise 1
 
