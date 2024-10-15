@@ -37,6 +37,15 @@ Now that you have logged into your own MISP instance - explore the tool, find al
 
 - Enable and fetch feeds from the OSINT feeds.
 
+## GreyNoise
+
+Greynoise is a platform that collects and analyzes Internet-wide scan and attack traffic. 
+
+Your goals for this section are:
+
+- Create an account on GreyNoise
+- Browse through the different tabs and understand what each on is for
+
 ## VirusTotal
 
 VirusTotal is a free online service that analyzes files and URLs to detect viruses, worms, trojans, and other kinds of malware using various antivirus engines and tools. Users can upload files or submit URLs to be scanned, and VirusTotal aggregates the results from multiple antivirus products and website scanners to provide a comprehensive report on the safety of the submitted item.
